@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Liquid Details Page](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
+![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
 
 
 <!--
