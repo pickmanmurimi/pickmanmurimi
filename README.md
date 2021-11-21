@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![Liquid Details Page](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
+
+
 <!--
 **pickmanmurimi/pickmanmurimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
