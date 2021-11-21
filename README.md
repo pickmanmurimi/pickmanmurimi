@@ -3,9 +3,11 @@ I build things for the web.🔥 *You can call me optimus* 😉.
 
 ![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
 
-🌐 https://irup.io
+🌐 [Check out my resume](https://irup.io)
 
-- 🔭 I’m currently working on Laravel Vue Data Tables, An opinionated yet flexible data table vue plugin 😎❤️.
+- 🔭 I’m currently working on Laravel Vue Data Tables,
+    An opinionated yet flexible data table vue plugin 😎❤️.
+    This is a new version of the Vue-datatables plugin, that will be adding on flexibility, easy server side pagination and filter integration and Tailwind support.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Laravel Vue Data Tables 🙏‍.
 - 📫 How to reach me: pickmanmurimi@gmail.com.
