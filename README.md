@@ -1,7 +1,7 @@
 ## Hi there 👋, Am Pickman Murimi
 I build things for the web.🔥 *You can call me optimus* 😉.
 
-![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
+![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/FullLengthfullsize.jpg)
 
 🌐 [Check out my resume](https://irup.io)
 
