@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Pickman Murimi
+They call me optimus, I build things for the web.
 
 ![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
 
