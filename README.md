@@ -1,8 +1,9 @@
 ## Hi there 👋, Am Pickman Murimi
-*You can call me optimus* 😉
-I build things for the web.🔥
+I build things for the web.🔥 *You can call me optimus* 😉.
 
 ![https://irup.io](https://github.com/pickmanmurimi/pickmanmurimi/blob/main/irupimages/fulllengthResume.jpg)
+
+🌐 https://irup.io
 
 - 🔭 I’m currently working on Laravel Vue Data Tables, An opinionated yet flexible data table vue plugin 😎❤️.
 - 🌱 I’m currently learning Golang.
